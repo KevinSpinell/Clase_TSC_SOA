@@ -1,0 +1,10 @@
+"use strict";
+let string = "Para Strings";
+let bandera = true;
+let array = ["Hola", "Esto", "Es", "Un", "Array"];
+let numbers = 1223;
+console.log("Ejercicio 1");
+console.log(string);
+console.log(bandera);
+console.log(array);
+console.log(numbers);
